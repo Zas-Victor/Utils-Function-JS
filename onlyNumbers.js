@@ -1,0 +1,1 @@
+exports.onlyNumbers = (text) => text.replace(/[0-9]/g, "");
